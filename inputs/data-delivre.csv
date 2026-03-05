@@ -1,0 +1,101 @@
+Dia;Entregas;Produto Mais Pedido; Valor Investido (R$) ;Dia da Semana;Horário de Pico
+1;120;Pizza; R$ 4.500,00 ;Segunda;12h-14h
+2;95;Hambúrguer; R$ 3.800,00 ;Terça;19h-22h
+3;110;Marmita Fitness; R$ 4.200,00 ;Quarta;12h-14h
+4;130;Sushi; R$ 4.700,00 ;Quinta;19h-22h
+5;150;Pizza; R$ 5.200,00 ;Sexta;20h-23h
+6;200;Hambúrguer; R$ 6.000,00 ;Sábado;19h-23h
+7;180;Pizza; R$ 5.500,00 ;Domingo;18h-22h
+8;125;Marmita Fitness; R$ 4.600,00 ;Segunda;12h-14h
+9;100;Salada; R$ 3.900,00 ;Terça;12h-14h
+10;115;Sushi; R$ 4.300,00 ;Quarta;19h-22h
+11;140;Pizza; R$ 4.800,00 ;Quinta;20h-23h
+12;160;Hambúrguer; R$ 5.300,00 ;Sexta;19h-22h
+13;210;Marmita Fitness; R$ 6.100,00 ;Sábado;12h-14h
+14;190;Pizza; R$ 5.600,00 ;Domingo;18h-22h
+15;130;Sushi; R$ 4.700,00 ;Segunda;19h-22h
+16;105;Hambúrguer; R$ 3.850,00 ;Terça;20h-23h
+17;120;Pizza; R$ 4.250,00 ;Quarta;12h-14h
+18;135;Marmita Fitness; R$ 4.750,00 ;Quinta;12h-14h
+19;155;Sushi; R$ 5.250,00 ;Sexta;19h-22h
+20;205;Pizza; R$ 6.050,00 ;Sábado;20h-23h
+21;185;Hambúrguer; R$ 5.550,00 ;Domingo;18h-22h
+22;128;Marmita Fitness; R$ 4.580,00 ;Segunda;12h-14h
+23;98;Salada; R$ 3.820,00 ;Terça;12h-14h
+24;118;Sushi; R$ 4.320,00 ;Quarta;19h-22h
+25;145;Pizza; R$ 4.820,00 ;Quinta;20h-23h
+26;165;Hambúrguer; R$ 5.320,00 ;Sexta;19h-22h
+27;215;Marmita Fitness; R$ 6.120,00 ;Sábado;12h-14h
+28;195;Pizza; R$ 5.620,00 ;Domingo;18h-22h
+29;132;Sushi; R$ 4.720,00 ;Segunda;19h-22h
+30;107;Hambúrguer; R$ 3.870,00 ;Terça;20h-23h
+31;122;Pizza; R$ 4.270,00 ;Quarta;12h-14h
+32;137;Marmita Fitness; R$ 4.770,00 ;Quinta;12h-14h
+33;157;Sushi; R$ 5.270,00 ;Sexta;19h-22h
+34;207;Pizza; R$ 6.070,00 ;Sábado;20h-23h
+35;187;Hambúrguer; R$ 5.570,00 ;Domingo;18h-22h
+36;126;Marmita Fitness; R$ 4.590,00 ;Segunda;12h-14h
+37;99;Salada; R$ 3.830,00 ;Terça;12h-14h
+38;116;Sushi; R$ 4.330,00 ;Quarta;19h-22h
+39;142;Pizza; R$ 4.830,00 ;Quinta;20h-23h
+40;162;Hambúrguer; R$ 5.330,00 ;Sexta;19h-22h
+41;212;Marmita Fitness; R$ 6.130,00 ;Sábado;12h-14h
+42;192;Pizza; R$ 5.630,00 ;Domingo;18h-22h
+43;134;Sushi; R$ 4.730,00 ;Segunda;19h-22h
+44;109;Hambúrguer; R$ 3.890,00 ;Terça;20h-23h
+45;124;Pizza; R$ 4.290,00 ;Quarta;12h-14h
+46;139;Marmita Fitness; R$ 4.790,00 ;Quinta;12h-14h
+47;159;Sushi; R$ 5.290,00 ;Sexta;19h-22h
+48;209;Pizza; R$ 6.090,00 ;Sábado;20h-23h
+49;189;Hambúrguer; R$ 5.590,00 ;Domingo;18h-22h
+50;127;Marmita Fitness; R$ 4.600,00 ;Segunda;12h-14h
+51;101;Salada; R$ 3.840,00 ;Terça;12h-14h
+52;117;Sushi; R$ 4.340,00 ;Quarta;19h-22h
+53;143;Pizza; R$ 4.840,00 ;Quinta;20h-23h
+54;163;Hambúrguer; R$ 5.340,00 ;Sexta;19h-22h
+55;213;Marmita Fitness; R$ 6.140,00 ;Sábado;12h-14h
+56;193;Pizza; R$ 5.640,00 ;Domingo;18h-22h
+57;135;Sushi; R$ 4.740,00 ;Segunda;19h-22h
+58;110;Hambúrguer; R$ 3.900,00 ;Terça;20h-23h
+59;125;Pizza; R$ 4.300,00 ;Quarta;12h-14h
+60;140;Marmita Fitness; R$ 4.800,00 ;Quinta;12h-14h
+61;160;Sushi; R$ 5.300,00 ;Sexta;19h-22h
+62;210;Pizza; R$ 6.100,00 ;Sábado;20h-23h
+63;190;Hambúrguer; R$ 5.600,00 ;Domingo;18h-22h
+64;129;Marmita Fitness; R$ 4.610,00 ;Segunda;12h-14h
+65;102;Salada; R$ 3.850,00 ;Terça;12h-14h
+66;119;Sushi; R$ 4.350,00 ;Quarta;19h-22h
+67;144;Pizza; R$ 4.850,00 ;Quinta;20h-23h
+68;164;Hambúrguer; R$ 5.350,00 ;Sexta;19h-22h
+69;214;Marmita Fitness; R$ 6.150,00 ;Sábado;12h-14h
+70;194;Pizza; R$ 5.650,00 ;Domingo;18h-22h
+71;136;Sushi; R$ 4.750,00 ;Segunda;19h-22h
+72;111;Hambúrguer; R$ 3.910,00 ;Terça;20h-23h
+73;126;Pizza; R$ 4.310,00 ;Quarta;12h-14h
+74;141;Marmita Fitness; R$ 4.810,00 ;Quinta;12h-14h
+75;161;Sushi; R$ 5.310,00 ;Sexta;19h-22h
+76;211;Pizza; R$ 6.110,00 ;Sábado;20h-23h
+77;191;Hambúrguer; R$ 5.610,00 ;Domingo;18h-22h
+78;130;Marmita Fitness; R$ 4.620,00 ;Segunda;12h-14h
+79;103;Salada; R$ 3.860,00 ;Terça;12h-14h
+80;120;Sushi; R$ 4.360,00 ;Quarta;19h-22h
+81;146;Pizza; R$ 4.860,00 ;Quinta;20h-23h
+82;166;Hambúrguer; R$ 5.360,00 ;Sexta;19h-22h
+83;216;Marmita Fitness; R$ 6.160,00 ;Sábado;12h-14h
+84;196;Pizza; R$ 5.660,00 ;Domingo;18h-22h
+85;137;Sushi; R$ 4.760,00 ;Segunda;19h-22h
+86;112;Hambúrguer; R$ 3.920,00 ;Terça;20h-23h
+87;127;Pizza; R$ 4.320,00 ;Quarta;12h-14h
+88;142;Marmita Fitness; R$ 4.820,00 ;Quinta;12h-14h
+89;162;Sushi; R$ 5.320,00 ;Sexta;19h-22h
+90;212;Pizza; R$ 6.120,00 ;Sábado;20h-23h
+91;192;Hambúrguer; R$ 5.620,00 ;Domingo;18h-22h
+92;131;Marmita Fitness; R$ 4.630,00 ;Segunda;12h-14h
+93;104;Salada; R$ 3.870,00 ;Terça;12h-14h
+94;121;Sushi; R$ 4.370,00 ;Quarta;19h-22h
+95;147;Pizza; R$ 4.870,00 ;Quinta;20h-23h
+96;167;Hambúrguer; R$ 5.370,00 ;Sexta;19h-22h
+97;217;Marmita Fitness; R$ 6.170,00 ;Sábado;12h-14h
+98;197;Pizza; R$ 5.670,00 ;Domingo;18h-22h
+99;138;Sushi; R$ 4.770,00 ;Segunda;19h-22h
+100;113;Hambúrguer; R$ 3.930,00 ;Terça;20h-23h
